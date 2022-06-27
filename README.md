@@ -5,17 +5,19 @@ Foobar is a Python library for dealing with word pluralization.
 ## Installation
 
 for the requirements
+ [nodejs](https://pip.pypa.io/en/stable/) terminal.
+```bash
+sudo apt install nodejs
+```
+
+for the requirements
  [npm](https://pip.pypa.io/en/stable/) terminal.
 
 
 ```bash
 npm install
 ```
-for the requirements
- [nodejs](https://pip.pypa.io/en/stable/) terminal.
-```bash
-sudo apt install nodejs
-```
+
 
 ## Usage
 
